@@ -9,7 +9,11 @@
 [![CodeForces](https://img.shields.io/badge/CodeForces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/mukul18_11)
 [![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/mukul18_11/)
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/mukul18_11)
-[![Monkeytype](https://img.shields.io/badge/Monkeytype🧠-000000?style=flat&logoColor=white)](https://monkeytype.com/profile/Mukul1811)
+[![Monkeytype🧠](https://img.shields.io/badge/Monkeytype🧠-8B0000?style=flat&logoColor=white)](https://monkeytype.com/profile/Mukul1811)
+
+
+
+
 
 
 ## 🎓 Education
