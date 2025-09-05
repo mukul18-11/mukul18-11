@@ -25,10 +25,7 @@
 
 
 ## 💼 Experience
-### **AccioJob** | *Software Engineer* `March 2023 - July 2023`
-- Mentored **1500+ students** in DSA concepts
-- Conducted **1500+ technical interviews**  
-- Built AI Discord chatbot using Python + OpenAI
+### **AccioJob** | *Frontend Developer* | `March 2023 - July 2023`
 
 ## 🛠️ Projects
 ### **Keeper App** | React.js
