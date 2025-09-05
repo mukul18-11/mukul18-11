@@ -23,20 +23,8 @@
 **Netaji Subhas University of Technology**  
 `Dec 2021 - Aug 2025` | Delhi, India  
 
-
 ## 💼 Experience
 ### **AccioJob** | *Software Engineer* | `March 2023 - Feb 2025`
-
-## 🛠️ Projects
-### **Keeper App** | React.js
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF7139?style=flat&logo=vercel&logoColor=white)](#) 
-Google Keep clone with CRUD operations
-
-### **Real-Time Chat App** | Node.js + Socket.io
-Multi-room chat with authentication
-
-### **Weather Dashboard** | OpenWeatherMap API
-Dynamic weather forecasting application
 
 ## 🏆 Achievements
 - Cleared **Amazon Machine Learning Summer School 2024**
