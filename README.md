@@ -22,7 +22,7 @@
 ## 🎓 Education
 **Netaji Subhas University of Technology**  
 `Dec 2021 - Aug 2025` | Delhi, India  
-📌 B.Tech in Mechanical Engineering  
+
 
 ## 💼 Experience
 ### **AccioJob** | *Intern - Mentor* `March 2023 - July 2023`
