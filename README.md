@@ -25,7 +25,7 @@
 
 
 ## 💼 Experience
-### **AccioJob** | *Frontend Developer* | `March 2023 - Feb 2025`
+### **AccioJob** | *Software Engineer* | `March 2023 - Feb 2025`
 
 ## 🛠️ Projects
 ### **Keeper App** | React.js
