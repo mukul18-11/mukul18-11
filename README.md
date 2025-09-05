@@ -25,7 +25,7 @@
 
 
 ## 💼 Experience
-### **AccioJob** | *Intern - Mentor* `March 2023 - July 2023`
+### **AccioJob** | *Software Engineer* `March 2023 - July 2023`
 - Mentored **1500+ students** in DSA concepts
 - Conducted **1500+ technical interviews**  
 - Built AI Discord chatbot using Python + OpenAI
