@@ -82,4 +82,7 @@
     </td>
   </tr>
 </table>
- 
+
+ ![Snake animation](https://raw.githubusercontent.com/mukul18-11/mukul18-11/output/dist/github-contribution-grid-snake.svg?color_snake=pink)
+
+
