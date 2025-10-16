@@ -23,7 +23,7 @@
 `Dec 2021 - Aug 2025` | Delhi, India  
 
 ## 💼 Experience
-### **AccioJob** | *Software Engineer* | `March 2023 - Feb 2025`
+### **AccioJob** | *Software Engineer* | `June 2024 - Feb 2025`
 
 ## 🏆 Achievements
 - Cleared **Amazon Machine Learning Summer School 2024**
