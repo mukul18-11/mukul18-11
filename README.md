@@ -1,5 +1,5 @@
 #  MUKUL KUMAR 
-`Software Engineer | DSA Mentor | Full-Stack Developer`
+`Software Engineer | Full-Stack Developer`
 
 [![Email](https://img.shields.io/badge/mukul18x11@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mukul18x11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul1811/)
@@ -23,7 +23,7 @@
 `Dec 2021 - Aug 2025` | Delhi, India  
 
 ## 💼 Experience
-### **AccioJob** | *Software Engineer* | `June 2024 - Feb 2025`
+### **AccioJob** | *Software Engineer* | `June 2024 - Mar 2025`
 
 ## 🏆 Achievements
 - Cleared **Amazon Machine Learning Summer School 2024**
