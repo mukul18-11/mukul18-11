@@ -1,4 +1,4 @@
-#  MUKUL
+#  MUKUL SHARMA
 `Software Engineer | Full-Stack Developer`
 
 [![Email](https://img.shields.io/badge/mukul18x11@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mukul18x11@gmail.com)
