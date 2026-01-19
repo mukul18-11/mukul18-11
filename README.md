@@ -20,7 +20,7 @@
 
 ## 🎓 Education
 **Netaji Subhas University of Technology**  
-`Dec 2021 - Aug 2025` | Delhi, India  
+`Aug 2021 - Aug 2025` | Delhi, India  
 
 ## 💼 Experience
 ### **AccioJob** | *Software Developer Intern* | `July 22025 - Dec 2025`
