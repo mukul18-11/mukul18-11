@@ -12,19 +12,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mukul18-11&label=Profile%20Views&color=red&style=flat&labelColor=red)
 
-
-
-
-
-
-
-## 🎓 Education
-**Netaji Subhas University of Technology**  
-`Aug 2021 - Aug 2025` | Delhi, India  
-
-## 💼 Experience
-### **AccioJob** | *Software Developer Intern* | `July 22025 - Dec 2025`
-
 ## 🏆 Achievements
 - Cleared **Amazon Machine Learning Summer School 2024**
 - Prefinalist in **Flipkart Grid 6.0** (Information Security & Software Development Challenge)
