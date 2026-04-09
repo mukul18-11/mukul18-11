@@ -12,13 +12,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mukul18-11&label=Profile%20Views&color=red&style=flat&labelColor=red)
 
-## 🏆 Achievements
-- Cleared **Amazon Machine Learning Summer School 2024**
-- Prefinalist in **Flipkart Grid 6.0** (Information Security & Software Development Challenge)
-- Solved **600+ problems** across LeetCode/CodeChef/CodeForces/GFG
-- Rank **1857** in LeetCode Biweekly Contest 156
-
-
 ## 🚀 Coding Profiles (Live Stats)
 
 <h2 align="center">🚀 Coding Profiles (Live Stats)</h2>
