@@ -1,5 +1,5 @@
 #  MUKUL
-`Software Engineer | Full-Stack Developer | Working on building my Saas`
+`Software Engineer | Full-Stack Gen AI Developer | Working on building my Saas and Freelancing`
 
 [![Email](https://img.shields.io/badge/mukul18x11@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mukul18x11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul1811/)
