@@ -14,8 +14,6 @@
 
  [Click to know more about me](https://mukulbuilds.com)
 
-## 🚀 Coding Profiles (Live Stats)
-
 <h2 align="center">🚀 Coding Profiles (Live Stats)</h2>
 
 <table align="center" cellspacing="20">
