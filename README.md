@@ -1,6 +1,9 @@
-#  MUKUL 
-Founder of [![CombineApps](https://combineapps.com)
-`Working on building my Saas`
+# Mukul — Founder of [CombineApps](https://combineapps.com/)
+
+CombineApps builds custom AI agents, multi-agent systems, workflow automations, AI integrations, internal tools, MCP servers and connectors, reporting systems, and production AI infrastructure for businesses.
+
+[![Visit CombineApps](https://img.shields.io/badge/Visit_CombineApps-2563EB?style=for-the-badge)](https://combineapps.com/)
+[![Book a Demo](https://img.shields.io/badge/Book_a_Demo-7C3AED?style=for-the-badge)](https://combineapps.com/#contact)
 
 [![Email](https://img.shields.io/badge/mukul18x11@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mukul18x11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukul1811/)
@@ -15,41 +18,32 @@ Founder of [![CombineApps](https://combineapps.com)
 
  [Click to know more about me](https://mukulbuilds.com)
 
-<h2 align="center">🚀 Coding Profiles (Live Stats)</h2>
+<h2 align="center">Coding Profiles (Live Stats)</h2>
 
-<table align="center" cellspacing="20">
+<table align="center">
   <tr>
-    <td>
-      <div style="background-color:#000; border:2px solid red; padding:12px; border-radius:12px; width:315px; text-align:center;">
-        <a href="https://leetcode.com/u/mukul18_11/">
-          .
-          <img src="https://leetcard.jacoblin.cool/mukul18_11?theme=dark&ext=heatmap" width="290"/>
-        </a>
-      </div>
+    <td align="center">
+      <a href="https://leetcode.com/u/mukul18_11/">
+        <img src="https://leetcard.jacoblin.cool/mukul18_11?theme=dark&ext=heatmap" width="290" alt="Mukul's LeetCode statistics"/>
+      </a>
     </td>
-    <td>
-      <div style="background-color:#000; border:2px solid red; padding:12px; border-radius:12px; width:315px; text-align:center;">
-        <a href="https://codeforces.com/profile/mukul18_11">.
-          <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mukul18_11&theme=dracula" width="290"/>
-        </a>
-      </div>
+    <td align="center">
+      <a href="https://codeforces.com/profile/mukul18_11">
+        <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mukul18_11&theme=dracula" width="290" alt="Mukul's Codeforces statistics"/>
+      </a>
     </td>
   </tr>
 
   <tr>
-    <td>
-      <div style="background-color:#000; border:2px solid red; padding:12px; border-radius:12px; width:315px; text-align:center;">
-        <a href="https://www.codechef.com/users/mukul_1811">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CodeChef_Logo.svg/1200px-CodeChef_Logo.svg.png" width="80" alt="CodeChef Logo"/>
-        </a>
-      </div>
+    <td align="center">
+      <a href="https://www.codechef.com/users/mukul_1811">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/CodeChef_Logo.svg/1200px-CodeChef_Logo.svg.png" width="80" alt="CodeChef Logo"/>
+      </a>
     </td>
-    <td>
-      <div style="background-color:#000; border:2px solid red; padding:12px; border-radius:12px; width:315px; text-align:center;">
-        <a href="https://www.geeksforgeeks.org/user/mukul18_11/">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="50" alt="GFG Logo"/>
-        </a>
-      </div>
+    <td align="center">
+      <a href="https://www.geeksforgeeks.org/user/mukul18_11/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="50" alt="GeeksforGeeks Logo"/>
+      </a>
     </td>
   </tr>
 </table>
